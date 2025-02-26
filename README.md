@@ -18,7 +18,7 @@ The projects you'll find below showcase my ability to not only analyze data but 
 * [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/PWQAJ3Z9C32X) (Nov 2024)(Google - Coursera) 
 
 ## Projects
-### [Proj#1 - Excel - Sale Report Dashboard](https://github.com/mtdzzz/MD-Data-Analysis-Portfolio/tree/main/Proj%231%20-%20Excel%20-%20Sale%20Report%20Dashboard)
+### [Proj#1 - Coffee Quality Analysis](https://github.com/mtdzzz/MD-Data-Analysis-Portfolio/tree/main/Proj%231%20-%20Excel%20-%20Sale%20Report%20Dashboard)
 ### 1.1	Objective:   
 1. To identify the key determinants of coffee quality as evaluated through sensory attributes such as aroma, flavor, and acidity.
 2. To explore the correlation between processing methods, origin regions, and coffee quality scores. 
@@ -30,4 +30,12 @@ The projects you'll find below showcase my ability to not only analyze data but 
   + Altitude: Elevation where coffee was grown
   + Sensory Attributes: Aroma, Acidity, Flavor, Body, Aftertaste, Balance
   + Defects: Category One & Two defects, Quakers
+### 1.3	Skill Demonstrated:
 
+### 1.4	Tools Used:
+
+### 1.5	Report:
+
+### 1.6	Key Findings:
+
+### 1.7 Business Insights & Recommendations
