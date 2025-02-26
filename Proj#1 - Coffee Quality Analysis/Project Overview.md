@@ -17,23 +17,18 @@
 - **Business Intelligence**: Translating data insights into actionable recommendations.
 ## 4.	Tools Used:
 - SQL
-- Power BI
-- Python for Visualization
+- Power BI & Python for Visualization
 ## 5.	Report:
 
 ## 6.	Key Findings:
 ### 6.1 Quality Score Distribution
-- Most coffees score between 80-90 points.
-- Few samples exceed 90 points, indicating exceptional quality.
-- Distribution is right-skewed, meaning more mid-range coffees than top-tier.
-
-### 6.2 Impact of Altitude on Coffee Quality
-- Slight positive correlation (0.10) → Higher altitude coffee tends to have better quality.
-- Some low-altitude coffees still score high, meaning altitude alone isn’t the key factor.
-
-### 6.3 Key determinants of coffee quality
-- Sensory attributes (Flavor, Aroma, Acidity, Body, Balance, and Aftertaste) have the strongest positive correlations with quality scores.
-- Altitude shows a weak positive correlation, reinforcing that other factors contribute more significantly to high quality.
-- Defect rates have a slight negative correlation with quality scores, indicating that lower defects contribute to higher scores.
-
+- Most coffees score between **80-90 points**.
+- Few samples exceed **90 points**, indicating exceptional quality.
+- Distribution is **right-skewed**, meaning more mid-range coffees than top-tier.
+### 6.2 Key determinants of coffee quality
+- Sensory attributes (**Flavor, Aroma, Acidity, Body, Balance, and Aftertaste**) have the strongest positive correlations with quality scores.
+- Altitude shows a weak positive correlation, reinforcing that **other factors contribute more significantly to high quality**.
+### 6.3 Impact of Altitude on Coffee Quality
+- **Slight positive correlation (0.10)** → Higher altitude coffee tends to have better quality.
+- Some **low-altitude coffees still score high**, meaning altitude alone isn’t the key factor.
 ## 7. Business Insights & Recommendations
