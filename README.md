@@ -31,9 +31,14 @@ The projects you'll find below showcase my ability to not only analyze data but 
   + Sensory Attributes: Aroma, Acidity, Flavor, Body, Aftertaste, Balance
   + Defects: Category One & Two defects, Quakers
 ### 1.3	Skill Demonstrated:
-
+- **Data Analysis**: Identifying trends and correlations in coffee quality scores.
+- **Statistical Analysis**: Understanding relationships between variables (e.g., altitude and quality score).
+- **Data Visualization**: Presenting insights through charts and graphs.
+- **Business Intelligence**: Translating data insights into actionable recommendations.
 ### 1.4	Tools Used:
-
+- SQL
+- Power BI
+- Python
 ### 1.5	Report:
 
 ### 1.6	Key Findings:
