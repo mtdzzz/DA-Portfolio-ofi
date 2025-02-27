@@ -42,8 +42,8 @@ This project aims to create a **Supplier Quality Scorecard** to:
 ### 6.5 Impact of Defective rate on Outturn
 - There is a negative correlation between Defective Rate and Outturn (-0.73), indicating that higher defect rates reduce the overall edible yield.
 ### 6.6 Defective vs Quality Score Trend
-An inverse relationship is observed: as the defective rate increases, the quality score decreases.
-The trend shows that defective rates peaked in 2016, leading to a decline in quality scores.
+- An inverse relationship is observed: as the defective rate increases, the quality score decreases.
+- The trend shows that defective rates peaked in 2016, leading to a decline in quality scores.
 
 ## 7. Recommendations
 - Prioritize contracts with Top 10 Suppliers to improve overall product quality.
