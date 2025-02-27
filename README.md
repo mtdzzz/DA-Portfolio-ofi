@@ -1,4 +1,6 @@
-# Mai Dung - Data Analysis Portfolio (ofi)
+# Data Analysis Portfolio - ofi (Quality & Food Safety)
+Mai Dung - the Aspiring Data Analyst
+
 ## Introduction
 Hello, and welcome to my data analyst portfolio. I'm MD, and I'm thrilled to have you here.
 
@@ -19,8 +21,6 @@ The projects you'll find below showcase my ability to not only analyze data but 
 
 ## Projects
 ### [Proj#1 - Coffee Quality Analysis](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%231%20-%20Coffee%20Quality%20Analysis)
-This project analyzes coffee quality scores based on various attributes such as origin, processing methods, and defect rates. The insights help identify key factors influencing coffee quality and provide actionable recommendations for improving product consistency.
-
+This project explores factors affecting coffee quality scores, analyzing attributes such as processing methods, moisture levels, and defect rates. The findings provide insights into quality variations, helping businesses improve product consistency and sourcing decisions.
 ### [Proj#2 - Cashew Supplier Quality Scorecard](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%232%20-%20Cashew%20Supplier%20Quality%20Scorecard)
-A supplier performance evaluation using quality scores, defect rates, and delivery volumes from cashew truck arrivals data. This analysis highlights top-performing suppliers, identifies areas for improvement, and offers recommendations to enhance supplier quality management.
-
+A comprehensive supplier performance evaluation using delivery records of raw cashew nuts. This analysis identifies top-performing suppliers, highlights suppliers needing improvement, and offers actionable insights to strengthen supplier quality management.
