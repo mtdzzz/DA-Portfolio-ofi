@@ -14,7 +14,6 @@
 - **Data Analysis**: Identifying trends and correlations in coffee quality scores.
 - **Statistical Analysis**: Performing correlation analysis to determine quality score drivers.
 - **Data Visualization**: Presenting insights through charts and graphs.
-- **Business Intelligence**: Translating data insights into actionable recommendations.
 ## 4.	Tools Used:
 - SQL
 - Power BI & Python for Visualization
@@ -31,4 +30,3 @@
 ### 6.3 Impact of Altitude on Coffee Quality
 - **Slight positive correlation (0.10)** → Higher altitude coffee tends to have better quality.
 - Some **low-altitude coffees still score high**, meaning altitude alone isn’t the key factor.
-## 7. Business Insights & Recommendations
