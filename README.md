@@ -18,9 +18,11 @@ The projects you'll find below showcase my ability to not only analyze data but 
 * [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/PWQAJ3Z9C32X) (Nov 2024)(Google - Coursera) 
 
 ## Projects
-### [Proj#1 - Coffee Quality Analysis](https://github.com/mtdzzz/MD-Data-Analysis-Portfolio/tree/main/Proj%231%20-%20Excel%20-%20Sale%20Report%20Dashboard)
+### [Proj#1 - Coffee Quality Analysis](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%231%20-%20Coffee%20Quality%20Analysis)
 ### 1.1	Objective:   
 1. To identify the key determinants of coffee quality as evaluated through sensory attributes such as aroma, flavor, and acidity.
 2. To explore the correlation between processing methods, origin regions, and coffee quality scores.
 
-### [Proj#2 - Cashew Supplier Quality Scorecard](https://github.com/mtdzzz/MD-Data-Analysis-Portfolio/tree/main/Proj%231%20-%20Excel%20-%20Sale%20Report%20Dashboard)
+### [Proj#2 - Cashew Supplier Quality Scorecard](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%232%20-%20Cashew%20Supplier%20Quality%20Scorecard)
+
+
