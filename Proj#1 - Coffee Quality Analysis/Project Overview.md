@@ -19,7 +19,7 @@
 - SQL
 - Power BI & Python for Visualization
 ## 5.	Report:
-
+![Coffee Quality Analysis](https://github.com/user-attachments/assets/83b36d70-9596-4770-afd2-77451866bb88)
 ## 6.	Key Findings:
 ### 6.1 Quality Score Distribution
 - Most coffees score between **80-90 points**.
