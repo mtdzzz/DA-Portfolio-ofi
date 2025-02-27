@@ -19,10 +19,8 @@ The projects you'll find below showcase my ability to not only analyze data but 
 
 ## Projects
 ### [Proj#1 - Coffee Quality Analysis](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%231%20-%20Coffee%20Quality%20Analysis)
-### 1.1	Objective:   
-1. To identify the key determinants of coffee quality as evaluated through sensory attributes such as aroma, flavor, and acidity.
-2. To explore the correlation between processing methods, origin regions, and coffee quality scores.
+This project analyzes coffee quality scores based on various attributes such as origin, processing methods, and defect rates. The insights help identify key factors influencing coffee quality and provide actionable recommendations for improving product consistency.
 
 ### [Proj#2 - Cashew Supplier Quality Scorecard](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%232%20-%20Cashew%20Supplier%20Quality%20Scorecard)
-
+A supplier performance evaluation using quality scores, defect rates, and delivery volumes from cashew truck arrivals data. This analysis highlights top-performing suppliers, identifies areas for improvement, and offers recommendations to enhance supplier quality management.
 
