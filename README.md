@@ -1,8 +1,8 @@
 # Data Analysis Portfolio - ofi (Quality & Food Safety)
-Mai Dung - the Aspiring Data Analyst
+
 
 ## Introduction
-Hello, and welcome to my data analyst portfolio. I'm MD, and I'm thrilled to have you here.
+Hello, and welcome to my data analyst portfolio. I'm **Mai Dung - the Aspiring Data Analyst**, and I'm thrilled to have you here.
 
 Within this collection of projects, you'll discover my passion for data exploration, statistical analysis, data visualization, and effective data presentation. These are just a few of the skills I've honed along my data journey. The majority of my projects leverage SQL, PowerBI, and Excel to uncover insights and tell data-driven stories. In this README, I'll provide a concise overview of my background and aspirations in data science, as well as a glimpse into my future projects.
 
