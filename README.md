@@ -20,7 +20,7 @@ The projects you'll find below showcase my ability to not only analyze data but 
 * [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/PWQAJ3Z9C32X) (Nov 2024)(Google - Coursera) 
 
 ## Projects
-### [Proj#1 - Coffee Quality Analysis](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%231%20-%20Coffee%20Quality%20Analysis)
+### [Proj#1 - Coffee Quality Analysis | SQL, Power BI & Python](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%231%20-%20Coffee%20Quality%20Analysis)
 This project explores factors affecting coffee quality scores, analyzing attributes such as processing methods, moisture levels, and defect rates. The findings provide insights into quality variations, helping businesses improve product consistency and sourcing decisions.
-### [Proj#2 - Cashew Supplier Quality Scorecard](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%232%20-%20Cashew%20Supplier%20Quality%20Scorecard)
+### [Proj#2 - Cashew Supplier Quality Scorecard | Power BI & DAX](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%232%20-%20Cashew%20Supplier%20Quality%20Scorecard)
 A comprehensive supplier performance evaluation using delivery records of raw cashew nuts. This analysis identifies top-performing suppliers, highlights suppliers needing improvement, and offers actionable insights to strengthen supplier quality management.
